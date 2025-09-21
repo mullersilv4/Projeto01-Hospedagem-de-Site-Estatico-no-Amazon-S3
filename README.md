@@ -1,18 +1,15 @@
 # Projeto01-Hospedagem-de-Site-Estatico-no-Amazon-S3
+
+🎯 Objetivo
 Migrar um site estático para o Amazon S3, melhorando a confiabilidade e a disponibilidade da aplicação. Neste projeto, explorei conceitos básicos de computação em nuvem e armazenamento de objetos, utilizando políticas de bucket para controle de acesso.
 
-
-📌 Projeto: Hospedagem de Site Estático no Amazon S3
-🎯 Objetivo
-
-Migrar um site estático para o Amazon S3, melhorando a confiabilidade e a disponibilidade da aplicação.
-Neste projeto, explorei conceitos básicos de computação em nuvem e armazenamento de objetos, utilizando políticas de bucket para controle de acesso.
 
 🛠️ Serviços AWS Utilizados
 
 Amazon S3 → Armazenamento dos arquivos do site e habilitação do recurso de Static Website Hosting.
 
 Bucket Policy (IAM) → Configuração de permissões públicas para acesso aos arquivos do site.
+
 
 🚀 Etapas Realizadas
 
